@@ -1,6 +1,6 @@
 <?
 echo "hello world.";
 
-bling bling
+echo "this is the end";
 
 ?>
